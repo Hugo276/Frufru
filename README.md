@@ -86,8 +86,8 @@
 <body>
 
     <header>
-        <h1>Supermercado Bom Preço</h1>
-        <p>Qualidade e economia para sua família</p>
+        <h1>Supermercado</h1>
+        <p>Provavel slogan se pa</p>
     </header>
 
     <nav>
@@ -129,4 +129,4 @@
 </html>
 
 
-Substitui por png dps
+Substitui por png dps e adicionar mais coisa
