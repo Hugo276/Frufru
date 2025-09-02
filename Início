@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supermercado E</title>
+
+</head>
+<body>
+
+    <header>
+        <h1>Supermercado E</h1>
+        <p>Qualidade e economia para sua família</p>
+    </header>
+
+    <nav>
+        <a href="#">Início</a>
+        <a href="#">Sobre</a>
+        <a href="#">Contato</a>
+    </nav>
+
+    <div class="container">
+        <div class="produto">
+            <img src=".jpeg" alt="Arroz">
+            <h3>Arroz 5kg</h3>
+            <p>R$ 25,90</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChsSEwjc39rJkbuPAxXWaEgAHStlHLoYACICCAEQBxoCY2U&ae=1&co=1&ase=2&gclid=CjwKCAjwq9rFBhAIEiwAGVAZP3zo013UNKUeOsntN-qJM6Py0OJPsXBDQ8TO6gYMacTFNyEbxhOGuhoCRsUQAvD_BwE&category=acrcp_v1_50&sig=AOD64_0L_q04M2TUKxriSKDUa9WzZmNc9A&ctype=5&q=&nis=4&ved=2ahUKEwjmz9XJkbuPAxXCIbkGHRvGNRQQwg8oAHoECAQQHA&adurl=https://shopee.com.br/lp/334618605/21618629751%3Fexp%3Dmain%26__mobile__%3D1%26gad_source%3D1%26gad_campaignid%3D20824904858%26gbraid%3D0AAAAACoEtRlFc0kfIAHYQkhSe-4a27i-0%26gclid%3DCjwKCAjwq9rFBhAIEiwAGVAZP3zo013UNKUeOsntN-qJM6Py0OJPsXBDQ8TO6gYMacTFNyEbxhOGuhoCRsUQAvD_BwE.jpeg" alt="Feijão">
+            <h3>Feijão Preto 1kg</h3>
+            <p>R$ 7,50</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChcSEwjCy4OSjbiPAxXLXEgAHQwII1EYABAJGgJjZQ&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCcwZg5nGVymxKeyydx5Zakq2TvK8y9tq09Dye4AdmzazLspzUuDjCxoC4B4QAvD_BwE&category=acrcp_v1_50&sig=AOD64_2gljh51pKFT1dQXCRvCjAXRO2i9Q&ctype=5&q=&nis=4&ved=2ahUKEwjGwP6RjbiPAxUDD7kGHU2eELIQwg8oAHoECAkQHg&adurl=https://www.drogariaminasbrasil.com.br/leite-cemil-longa-vida-uht-integral-1litro%3Fgad_source%3D4%26gad_campaignid%3D17416113337%26gbraid%3D0AAAAADp8UV3iLfNpPZBFVOuiAkvK2uvXk%26gclid%3DCjwKCAjwiNXFBhBKEiwAPSaPCcwZg5nGVymxKeyydx5Zakq2TvK8y9tq09Dye4AdmzazLspzUuDjCxoC4B4QAvD_BwE.jpeg" alt="Leite">
+            <h3>Leite Integral 1L</h3>
+            <p>R$ 4,20</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChcSEwijqtPWjbiPAxVZJkQIHRkBAfkYABAHGgJkeg&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCYQpKyXWk00cRewr1qWIklkezp3009Y4kli8rKkrHlB4iLZ8JupLYxoCIsEQAvD_BwE&category=acrcp_v1_50&sig=AOD64_0QgBfMm14RjKjMxSHODu2OhaLWZA&ctype=5&q=&nis=4&ved=2ahUKEwjXksnWjbiPAxWzr5UCHT9aEoEQwg8oAHoECAYQFg&adurl=https://m.magazineluiza.com.br/oleo-de-soja-liza-900ml/p/aj570726fh/me/olcz/%3F%26seller_id%3Dolistplus%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D80683%26utm_campaign%3Dgoogle_eco_per_ven_pla_mer_sor_3p_mercado-csp%26utm_content%3D%26partner_id%3D80683%26gclsrc%3Daw.ds%26gad_source%3D4%26gad_campaignid%3D22829495680%26gbraid%3D0AAAAAD4zZmQLKN-aurZrepJpSeboFNzZi%26gclid%3DCjwKCAjwiNXFBhBKEiwAPSaPCYQpKyXWk00cRewr1qWIklkezp3009Y4kli8rKkrHlB4iLZ8JupLYxoCIsEQAvD_BwE.jpeg" alt="Óleo">
+            <h3>Óleo de Soja 900ml</h3>
+            <p>R$ 5,80</p>
+        </div>
+        <div class="produto">
+            <img src="https:https://www.google.com/aclk?sa=l&ai=DChcSEwiiurmMjriPAxV6XkgAHboDOzsYABADGgJjZQ&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCdFNwP83td3dugMUgNNzwgGtqVkORsJgl-TSmNAURiUIOlSuo3pYLhoCAZcQAvD_BwE&category=acrcp_v1_50&sig=AOD64_058AZiZq0BZROp2tPq3x28bfsUow&ctype=5&q=&nis=4&ved=2ahUKEwiHuLSMjriPAxWvHbkGHcdBNbEQwg8oAHoECAYQEA&adurl=https://m.magazineluiza.com.br/massa-com-ovos-espaguete-vilma-n-09-pacote-500-g/p/kb4d97k095/me/mcra/%3F%26seller_id%3Dalansmartins%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D80683%26utm_campaign%3Dgoogle_eco_per_ven_pla_mer_sor_3p_mercado-csp%26utm_content%3D%26partner_id%3D80683%26gclsrc%3Daw.ds%26gad_source%3D4%26gad_campaignid%3D22829495680%26gbraid%3D0AAAAAD4zZmQLKN-aurZrepJpSeboFNzZi%26gclid%3DCjwKCAjwiNXFBhBKEiwAPSaPCdFNwP83td3dugMUgNNzwgGtqVkORsJgl-TSmNAURiUIOlSuo3pYLhoCAZcQAvD_BwE.jpeg" alt="Macarrão">
+            <h3>Macarrão Espaguete</h3>
+            <p>R$ 3,99</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChcSEwjemaezjriPAxVGMUQIHYjSGuQYABATGgJkeg&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCWnwObgoPfvFbOfjShDdpyBfppS6Nr7zt0DAEe1UT_LVtwrUs88F8hoC9IgQAvD_BwE&category=acrcp_v1_50&sig=AOD64_0mePufKGd9kByR4ssAMbrP1MezHA&ctype=5&q=&nis=4&ved=2ahUKEwjumpyzjriPAxXHu5UCHffYHFMQwg8oAHoECAcQNQ&adurl=https://www.amazon.com.br/Torrado-Mo%25C3%25ADdo-Tradicional-Pacote-Cora%25C3%25A7%25C3%25B5es/dp/B086F6V6XT/ref%3Dasc_df_B086F6V6XT%3Fmcid%3Dbb4dc5a78ec8303d94efb3b9ae89fa4e%26tag%3Dgoogleshopp06-20%26linkCode%3Ddf0%26hvadid%3D709857502494%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D7081097611887816507%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dm%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9101273%26hvtargid%3Dpla-1505101588519%26psc%3D1%26language%3Dpt_BR%26gad_source%3D4.jpeg" alt="Café">
+            <h3>Café 500g</h3>
+            <p>R$ 12,50</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChcSEwiQ0r_xjriPAxXWJkQIHbmCClcYABABGgJkeg&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCbj2S9DZdnAt3imohYfraD9SvnMjvxsRPUX3R0Lq3kJX11XcBA5qLBoC7qMQAvD_BwE&category=acrcp_v1_50&sig=AOD64_3HNDfrz34lZKEFfci-gsxlGMuTHQ&ctype=5&q=&nis=4&ved=2ahUKEwif1rXxjriPAxXKqpUCHa2FG7cQwg8oAHoECAgQCg&adurl=https://shopee.com.br/lp/427349430/18097149830%3Fexp%3Dmain%26__mobile__%3D1%26gad_source%3D4%26gad_campaignid%3D20824904858%26gbraid%3D0AAAAACoEtRk-qJKtMeIxKWQsllvna-2CZ%26gclid%3DCjwKCAjwiNXFBhBKEiwAPSaPCbj2S9DZdnAt3imohYfraD9SvnMjvxsRPUX3R0Lq3kJX11XcBA5qLBoC7qMQAvD_BwE.jpeg" alt="Açúcar">
+            <h3>Açúcar 1kg</h3>
+            <p>R$ 3,20</p>
+        </div>
+        <div class="produto">
+            <img src="https://www.google.com/aclk?sa=l&ai=DChsSEwjCt_6tj7iPAxUFEUQIHc-0BQ0YACICCAEQARoCZHo&ae=1&co=1&ase=2&gclid=CjwKCAjwiNXFBhBKEiwAPSaPCW16WeAQb52rQG6CxYFJQmIHut0tTcnK_FPdaOlwPzeNSiebFMHykhoCAkwQAvD_BwE&category=acrcp_v1_50&sig=AOD64_3sJLe_YjalTBBj-fbZG-kPImC5kw&ctype=5&q=&nis=4&ved=2ahUKEwjYlvWtj7iPAxU1q5UCHRQdHksQwg8oAHoECAYQDQ&adurl=https://shopee.com.br/lp/290495318/19741266250%3Fexp%3Dmain%26__mobile__%3D1%26gad_source%3D1%26gad_campaignid%3D20824904858%26gbraid%3D0AAAAACoEtRnl_Ojy_t247bh3cvaem8mLy%26gclid%3DCjwKCAjwiNXFBhBKEiwAPSaPCW16WeAQb52rQG6CxYFJQmIHut0tTcnK_FPdaOlwPzeNSiebFMHykhoCAkwQAvD_BwE.jpeg" alt="Farinha de Trigo">
+            <h3>Farinha de Trigo 1kg</h3>
+            <p>R$ 4,10</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Supermercado E - TM.</p>
+    </footer>
+
+</body>
+</html>
